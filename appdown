@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://m.wonaonao.com:81/TrainApp.ipa</string>
+                                        <string>http://res.wonaonao.com:81/TrainApp.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
